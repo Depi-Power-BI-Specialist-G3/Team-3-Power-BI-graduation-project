@@ -29,7 +29,7 @@ It includes:
   ## 📁 Project Files
 
 ### 🎥 Demo Video
-[Click here to watch the video](./tutorial)
+[Click here to watch the video](./Tutorialvideo.mp4)
 
 ### 📊 Presentation
 [Download the presentation](./FinalPresentation.pptx)
