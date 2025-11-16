@@ -25,3 +25,15 @@ It includes:
 - **DAX**
 - **Excel / CSV**
 - **Git & GitHub**
+
+  ## 📁 Project Files
+
+### 🎥 Demo Video
+[Click here to watch the video](./tutorial)
+
+### 📊 Presentation
+[Download the presentation](./FinalPresentation.pptx)
+
+### 📄 Documentation
+[Read the documentation](./ProjectDocumentation.pdf)
+
