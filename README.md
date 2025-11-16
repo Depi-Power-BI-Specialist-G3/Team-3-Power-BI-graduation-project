@@ -28,12 +28,5 @@ It includes:
 
   ## 📁 Project Files
 
-### 🎥 Demo Video
-[Click here to watch the video](./Tutorial%20video.mp4)
 
-### 📊 Presentation
-[Download the presentation](./FinalPresentation.pptx)
-
-### 📄 Documentation
-[Read the documentation](./ProjectDocumentation.pdf)
 
