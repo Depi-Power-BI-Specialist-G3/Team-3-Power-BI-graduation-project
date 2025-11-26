@@ -1,0 +1,1707 @@
+datetime,conditions,description,icon
+01/03/2020,Clear,Clear conditions throughout the day.,clear-day
+02/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+05/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+13/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+14/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/03/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+16/03/2020,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+17/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+18/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/03/2020,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+20/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow.,snow
+24/03/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+25/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+26/03/2020,Clear,Clear conditions throughout the day.,clear-day
+27/03/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+29/03/2020,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+30/03/2020,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+31/03/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+01/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+04/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+05/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+07/04/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+08/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+09/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+10/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+11/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+14/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/04/2020,"Rain, Partially cloudy",Becoming cloudy in the afternoon with late afternoon rain.,rain
+18/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+19/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+22/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+24/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+25/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+27/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+28/04/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+30/04/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+01/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+02/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+03/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+04/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+05/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+09/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+10/05/2020,Clear,Partly cloudy throughout the day.,clear-day
+11/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+12/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/05/2020,Clear,Clear conditions throughout the day.,clear-day
+14/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+16/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+17/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+23/05/2020,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+24/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+26/05/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+27/05/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+28/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+29/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+30/05/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+31/05/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/06/2020,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+02/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/06/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/06/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+06/06/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/06/2020,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+08/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/06/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+12/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/06/2020,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+18/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/06/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+20/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/06/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+28/06/2020,"Rain, Partially cloudy",Clearing in the afternoon with late afternoon rain.,rain
+29/06/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+30/06/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+02/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+03/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+04/07/2020,"Rain, Partially cloudy",Clearing in the afternoon with morning rain.,rain
+05/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+09/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+11/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+12/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+13/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+14/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+18/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+23/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+24/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+25/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/07/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/07/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+01/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+04/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+05/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+07/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+08/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+13/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+14/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+17/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+18/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+19/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+20/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+26/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+28/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+29/08/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+30/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/08/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+02/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+03/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/09/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+09/09/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+10/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+11/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+19/09/2020,Clear,Clear conditions throughout the day.,clear-day
+20/09/2020,Clear,Clear conditions throughout the day.,clear-day
+21/09/2020,Clear,Clear conditions throughout the day.,clear-day
+22/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/09/2020,Clear,Clear conditions throughout the day.,clear-day
+24/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/09/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+28/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+29/09/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+30/09/2020,"Rain, Partially cloudy",Clearing in the afternoon with rain clearing later.,rain
+01/10/2020,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+02/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+03/10/2020,Clear,Clear conditions throughout the day.,clear-day
+04/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+07/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+08/10/2020,Clear,Clear conditions throughout the day.,clear-day
+09/10/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+10/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/10/2020,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+13/10/2020,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+14/10/2020,Clear,Clear conditions throughout the day.,clear-day
+15/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+17/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+18/10/2020,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+19/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+21/10/2020,Overcast,Cloudy skies throughout the day.,cloudy
+22/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/10/2020,"Rain, Overcast",Cloudy skies throughout the day with morning rain.,rain
+24/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+26/10/2020,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+27/10/2020,Overcast,Cloudy skies throughout the day.,cloudy
+28/10/2020,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+29/10/2020,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+30/10/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+31/10/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/11/2020,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+02/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/11/2020,Clear,Clear conditions throughout the day.,clear-day
+05/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/11/2020,Clear,Clear conditions throughout the day.,clear-day
+09/11/2020,Clear,Clear conditions throughout the day.,clear-day
+10/11/2020,Clear,Clear conditions throughout the day.,clear-day
+11/11/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+12/11/2020,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+13/11/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+14/11/2020,Clear,Clear conditions throughout the day.,clear-day
+15/11/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+16/11/2020,Clear,Clear conditions throughout the day.,clear-day
+17/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/11/2020,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+23/11/2020,"Rain, Partially cloudy",Clearing in the afternoon with rain clearing later.,rain
+24/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/11/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+27/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/11/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/11/2020,Clear,Clear conditions throughout the day.,clear-day
+30/11/2020,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+01/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/12/2020,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+05/12/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+06/12/2020,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+07/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/12/2020,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain or snow.,rain
+10/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/12/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow in the morning and afternoon.,snow
+15/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/12/2020,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow.,snow
+17/12/2020,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,snow
+18/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/12/2020,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain or snow.,snow
+21/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/12/2020,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+25/12/2020,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+26/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/12/2020,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/12/2020,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+01/01/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+02/01/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+03/01/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/01/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+05/01/2021,Overcast,Cloudy skies throughout the day.,cloudy
+06/01/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+07/01/2021,Clear,Clear conditions throughout the day.,clear-day
+08/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/01/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+16/01/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+17/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/01/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+19/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/01/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with morning rain or snow.,snow
+21/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/01/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with rain or snow.,snow
+27/01/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with early morning snow or rain.,snow
+28/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/01/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/01/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+31/01/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain or snow.,snow
+01/02/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+02/02/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+03/02/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with early morning snow or rain.,rain
+04/02/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+05/02/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+06/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/02/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow.,snow
+08/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/02/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain or snow.,snow
+10/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/02/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow clearing later.,snow
+12/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/02/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with late afternoon rain or snow.,snow
+14/02/2021,Overcast,Cloudy skies throughout the day.,cloudy
+15/02/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with late afternoon rain or snow.,rain
+16/02/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow clearing later.,rain
+17/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/02/2021,"Snow, Overcast",Cloudy skies throughout the day with snow.,snow
+19/02/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+20/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/02/2021,Clear,Clear conditions throughout the day.,clear-day
+22/02/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow.,snow
+23/02/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+24/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/02/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/02/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+28/02/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+01/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+02/03/2021,Clear,Clear conditions throughout the day.,clear-day
+03/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/03/2021,Clear,Clear conditions throughout the day.,clear-day
+06/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/03/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+08/03/2021,Clear,Clear conditions throughout the day.,clear-day
+09/03/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+10/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/03/2021,Clear,Clear conditions throughout the day.,clear-day
+14/03/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+15/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/03/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain or snow.,rain
+17/03/2021,Overcast,Cloudy skies throughout the day.,cloudy
+18/03/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+19/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+20/03/2021,Clear,Clear conditions throughout the day.,clear-day
+21/03/2021,Clear,Clear conditions throughout the day.,clear-day
+22/03/2021,Clear,Clear conditions throughout the day.,clear-day
+23/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+25/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+26/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+27/03/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+29/03/2021,"Rain, Partially cloudy",Clearing in the afternoon with early morning rain.,rain
+30/03/2021,Clear,Clear conditions throughout the day.,clear-day
+31/03/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+01/04/2021,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+02/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/04/2021,Clear,Clear conditions throughout the day.,clear-day
+06/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/04/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+08/04/2021,Clear,Clear conditions throughout the day.,clear-day
+09/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+10/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+11/04/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+12/04/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+13/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+14/04/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+15/04/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+16/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+17/04/2021,Overcast,Cloudy skies throughout the day.,cloudy
+18/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+22/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+26/04/2021,Clear,Clear conditions throughout the day.,clear-day
+27/04/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+29/04/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+30/04/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+01/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+04/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+05/05/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+06/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/05/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+09/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+10/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+11/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/05/2021,Clear,Clear conditions throughout the day.,clear-day
+15/05/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+16/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+17/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/05/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/05/2021,"Rain, Partially cloudy",Clearing in the afternoon with late afternoon rain.,rain
+27/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+28/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+29/05/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+30/05/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+31/05/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+01/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+05/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/06/2021,"Rain, Partially cloudy",Becoming cloudy in the afternoon with afternoon rain.,rain
+08/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+09/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+10/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+14/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+15/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+16/06/2021,Clear,Clear conditions throughout the day.,clear-day
+17/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+20/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+23/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+27/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/06/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/06/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+01/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+02/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+03/07/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+04/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+05/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+07/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+09/07/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+10/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+11/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+12/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+13/07/2021,"Rain, Overcast",Cloudy skies throughout the day with morning rain.,rain
+14/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+15/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/07/2021,"Rain, Partially cloudy",Becoming cloudy in the afternoon with rain.,rain
+18/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+19/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+20/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+22/07/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+23/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+24/07/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+25/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+26/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+27/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+29/07/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+30/07/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/07/2021,Clear,Clear conditions throughout the day.,clear-day
+01/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+02/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/08/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+09/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+10/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+11/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+12/08/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+13/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/08/2021,Overcast,Cloudy skies throughout the day.,cloudy
+19/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+20/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+21/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+22/08/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+23/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+24/08/2021,Clear,Clear conditions throughout the day.,clear-day
+25/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/08/2021,"Rain, Partially cloudy",Becoming cloudy in the afternoon with rain.,rain
+28/08/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+29/08/2021,Overcast,Cloudy skies throughout the day.,cloudy
+30/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/08/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/09/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+02/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+03/09/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+04/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+06/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/09/2021,Clear,Clear conditions throughout the day.,clear-day
+08/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+10/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/09/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+12/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+14/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/09/2021,Overcast,Cloudy skies throughout the day.,cloudy
+18/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/09/2021,Clear,Clear conditions throughout the day.,clear-day
+20/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+22/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+23/09/2021,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+24/09/2021,"Rain, Partially cloudy",Clearing in the afternoon with rain clearing later.,rain
+25/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/09/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+28/09/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+29/09/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+30/09/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/10/2021,Clear,Clear conditions throughout the day.,clear-day
+02/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/10/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+05/10/2021,Overcast,Cloudy skies throughout the day.,cloudy
+06/10/2021,Overcast,Cloudy skies throughout the day.,cloudy
+07/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/10/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+09/10/2021,Overcast,Cloudy skies throughout the day.,cloudy
+10/10/2021,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+11/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/10/2021,Overcast,Cloudy skies throughout the day.,cloudy
+14/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/10/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+17/10/2021,"Rain, Partially cloudy",Becoming cloudy in the afternoon with rain.,rain
+18/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/10/2021,Clear,Clear conditions throughout the day.,clear-day
+20/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/10/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+24/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/10/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+26/10/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+27/10/2021,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+28/10/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/10/2021,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+30/10/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+31/10/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+01/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+03/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/11/2021,Clear,Clear conditions throughout the day.,clear-day
+06/11/2021,Clear,Clear conditions throughout the day.,clear-day
+07/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/11/2021,Clear,Clear conditions throughout the day.,clear-day
+09/11/2021,Clear,Clear conditions throughout the day.,clear-day
+10/11/2021,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+11/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+13/11/2021,"Rain, Partially cloudy",Becoming cloudy in the afternoon with afternoon rain.,rain
+14/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+15/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+16/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+19/11/2021,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+20/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+22/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+23/11/2021,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+24/11/2021,Clear,Clear conditions throughout the day.,clear-day
+25/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/11/2021,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+27/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/11/2021,Overcast,Cloudy skies throughout the day.,cloudy
+29/11/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+30/11/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/12/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+03/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/12/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/12/2021,"Snow, Rain, Overcast",Cloudy skies throughout the day with late afternoon rain or snow.,rain
+09/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/12/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+12/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/12/2021,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+19/12/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+20/12/2021,Clear,Clear conditions throughout the day.,clear-day
+21/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/12/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+23/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/12/2021,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with early morning snow or rain.,snow
+25/12/2021,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+26/12/2021,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/12/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+28/12/2021,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+29/12/2021,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+30/12/2021,"Rain, Overcast",Cloudy skies throughout the day with early morning rain.,rain
+31/12/2021,"Rain, Overcast",Cloudy skies throughout the day with early morning rain.,rain
+01/01/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+02/01/2022,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+03/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/01/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow in the morning and afternoon.,rain
+06/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/01/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow clearing later.,snow
+08/01/2022,Clear,Clear conditions throughout the day.,clear-day
+09/01/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+10/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/01/2022,Clear,Clear conditions throughout the day.,clear-day
+12/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/01/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain or snow.,rain
+17/01/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+18/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/01/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,rain
+21/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/01/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain or snow.,rain
+24/01/2022,Overcast,Cloudy skies throughout the day.,cloudy
+25/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/01/2022,Clear,Clear conditions throughout the day.,clear-day
+27/01/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+28/01/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with rain or snow.,snow
+29/01/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+30/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/01/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/02/2022,Overcast,Cloudy skies throughout the day.,cloudy
+03/02/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+04/02/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,rain
+05/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/02/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with rain or snow.,rain
+08/02/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+09/02/2022,Clear,Clear conditions throughout the day.,clear-day
+10/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/02/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+14/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/02/2022,Clear,Clear conditions throughout the day.,clear-day
+16/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/02/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+18/02/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+19/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/02/2022,Clear,Clear conditions throughout the day.,clear-day
+21/02/2022,Clear,Clear conditions throughout the day.,clear-day
+22/02/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+23/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/02/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,snow
+26/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/02/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/03/2022,"Rain, Partially cloudy",Clearing in the afternoon with early morning rain.,rain
+04/03/2022,Clear,Clear conditions throughout the day.,clear-day
+05/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/03/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+07/03/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+08/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/03/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+10/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/03/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+13/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/03/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+18/03/2022,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+19/03/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+20/03/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+21/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/03/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+24/03/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+25/03/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+26/03/2022,"Rain, Overcast",Cloudy skies throughout the day with afternoon rain.,rain
+27/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/03/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/03/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+01/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+02/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+04/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+06/04/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+07/04/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+08/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+09/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+10/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/04/2022,"Rain, Partially cloudy",Clearing in the afternoon with rain clearing later.,rain
+13/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+15/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+16/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+17/04/2022,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+18/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+19/04/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+20/04/2022,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+21/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/04/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/04/2022,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+27/04/2022,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+28/04/2022,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+29/04/2022,Clear,Clear conditions throughout the day.,clear-day
+30/04/2022,Clear,Clear conditions throughout the day.,clear-day
+01/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/05/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+03/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/05/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+05/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/05/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+07/05/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+08/05/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+09/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/05/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+11/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/05/2022,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+14/05/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+15/05/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+16/05/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+17/05/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+18/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/05/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+20/05/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+21/05/2022,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+22/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/05/2022,Overcast,Cloudy skies throughout the day.,cloudy
+25/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/05/2022,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+28/05/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+29/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/05/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/06/2022,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+02/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+03/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+08/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+09/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+10/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+12/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+13/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+14/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/06/2022,"Rain, Overcast",Cloudy skies throughout the day with morning rain.,rain
+17/06/2022,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+18/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+22/06/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+23/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+24/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/06/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+28/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/06/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+06/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+09/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+10/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/07/2022,Clear,Clear conditions throughout the day.,clear-day
+12/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+17/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+18/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+19/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+22/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+23/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+26/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+29/07/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+30/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/07/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+02/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/08/2022,Clear,Clear conditions throughout the day.,clear-day
+04/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+08/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+10/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+12/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+18/08/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+19/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/08/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+23/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+24/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+27/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/08/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/08/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+31/08/2022,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+01/09/2022,Clear,Clear conditions throughout the day.,clear-day
+02/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+06/09/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+07/09/2022,Overcast,Cloudy skies throughout the day.,cloudy
+08/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/09/2022,Clear,Clear conditions throughout the day.,clear-day
+10/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+12/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+13/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+14/09/2022,Clear,Clear conditions throughout the day.,clear-day
+15/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+20/09/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+21/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+23/09/2022,Clear,Clear conditions throughout the day.,clear-day
+24/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/09/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+26/09/2022,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+27/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/09/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+29/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/09/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/10/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+02/10/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+03/10/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+04/10/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+05/10/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+06/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/10/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+09/10/2022,Clear,Clear conditions throughout the day.,clear-day
+10/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/10/2022,Clear,Clear conditions throughout the day.,clear-day
+12/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/10/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+14/10/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+15/10/2022,Clear,Clear conditions throughout the day.,clear-day
+16/10/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+17/10/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+18/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/10/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+20/10/2022,Clear,Clear conditions throughout the day.,clear-day
+21/10/2022,Clear,Clear conditions throughout the day.,clear-day
+22/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/10/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+24/10/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+25/10/2022,"Rain, Overcast",Cloudy skies throughout the day with early morning rain.,rain
+26/10/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+27/10/2022,Clear,Clear conditions throughout the day.,clear-day
+28/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/10/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/10/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+01/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+02/11/2022,Clear,Clear conditions throughout the day.,clear-day
+03/11/2022,Clear,Clear conditions throughout the day.,clear-day
+04/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+07/11/2022,"Rain, Partially cloudy",Clearing in the afternoon with morning rain.,rain
+08/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/11/2022,Clear,Clear conditions throughout the day.,clear-day
+10/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/11/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+12/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+13/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+14/11/2022,Clear,Clear conditions throughout the day.,clear-day
+15/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+16/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+17/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/11/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+19/11/2022,Clear,Clear conditions throughout the day.,clear-day
+20/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/11/2022,Clear,Clear conditions throughout the day.,clear-day
+22/11/2022,Clear,Clear conditions throughout the day.,clear-day
+23/11/2022,Clear,Clear conditions throughout the day.,clear-day
+24/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+26/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+28/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/11/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/11/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+01/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/12/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/12/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+07/12/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+08/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/12/2022,Clear,Clear conditions throughout the day.,clear-day
+10/12/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+11/12/2022,"Snow, Rain, Overcast",Cloudy skies throughout the day with rain or snow.,rain
+12/12/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with early morning snow or rain.,rain
+13/12/2022,Clear,Clear conditions throughout the day.,clear-day
+14/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/12/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+16/12/2022,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+17/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/12/2022,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+20/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/12/2022,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+23/12/2022,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,rain
+24/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/12/2022,Overcast,Cloudy skies throughout the day.,cloudy
+28/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/12/2022,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/12/2022,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+01/01/2023,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+02/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+03/01/2023,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+04/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+05/01/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+06/01/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+07/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/01/2023,"Rain, Partially cloudy",Clearing in the afternoon with early morning rain.,rain
+10/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/01/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+13/01/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+14/01/2023,Overcast,Cloudy skies throughout the day.,cloudy
+15/01/2023,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+16/01/2023,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+17/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+19/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+20/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+21/01/2023,Overcast,Cloudy skies throughout the day.,cloudy
+22/01/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+23/01/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+24/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow.,snow
+26/01/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+27/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/01/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/01/2023,"Snow, Rain, Overcast",Cloudy skies throughout the day with morning rain or snow.,rain
+01/02/2023,"Snow, Partially cloudy",Clearing in the afternoon with snow clearing later.,rain
+02/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/02/2023,Partially cloudy,Partly cloudy throughout the day.,wind
+04/02/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+05/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+08/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+09/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+13/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+14/02/2023,Clear,Clear conditions throughout the day.,clear-day
+15/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+17/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+18/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+22/02/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+23/02/2023,"Rain, Overcast",Cloudy skies throughout the day with early morning rain.,rain
+24/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/02/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/02/2023,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain or snow.,rain
+28/02/2023,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,snow
+01/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+02/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+04/03/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+05/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/03/2023,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow clearing later.,snow
+08/03/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+09/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+11/03/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+12/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/03/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+14/03/2023,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+15/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+19/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/03/2023,Clear,Clear conditions throughout the day.,clear-day
+21/03/2023,Clear,Clear conditions throughout the day.,clear-day
+22/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+24/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+25/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+26/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/03/2023,"Rain, Partially cloudy",Becoming cloudy in the afternoon with late afternoon rain.,rain
+28/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+29/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/03/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+31/03/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/04/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+02/04/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+03/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/04/2023,"Rain, Overcast",Cloudy skies throughout the day with afternoon rain.,rain
+06/04/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+07/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/04/2023,Clear,Clear conditions throughout the day.,clear-day
+11/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/04/2023,Clear,Clear conditions throughout the day.,clear-day
+14/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/04/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+16/04/2023,Overcast,Cloudy skies throughout the day.,cloudy
+17/04/2023,"Rain, Overcast",Cloudy skies throughout the day with morning rain.,rain
+18/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/04/2023,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+23/04/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+24/04/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+25/04/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+26/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/04/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/04/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+29/04/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+30/04/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+01/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+02/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+03/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+04/05/2023,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+05/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+06/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+08/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/05/2023,Clear,Clear conditions throughout the day.,clear-day
+19/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/05/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+21/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+22/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+25/05/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+26/05/2023,Clear,Clear conditions throughout the day.,clear-day
+27/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/05/2023,Clear,Partly cloudy throughout the day.,clear-day
+31/05/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/06/2023,Clear,Clear conditions throughout the day.,clear-day
+02/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+03/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/06/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+06/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+10/06/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+11/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+12/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+13/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+15/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/06/2023,"Rain, Partially cloudy",Becoming cloudy in the afternoon with afternoon rain.,rain
+17/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/06/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+19/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/06/2023,"Rain, Overcast",Cloudy skies throughout the day with morning rain.,rain
+23/06/2023,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+24/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+25/06/2023,"Rain, Partially cloudy",Becoming cloudy in the afternoon with afternoon rain.,rain
+26/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+27/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+28/06/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+29/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/06/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+03/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+04/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+05/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+10/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+11/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+15/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+16/07/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+17/07/2023,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+18/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+19/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+20/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+22/07/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+23/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+26/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+28/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+29/07/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+30/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/07/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/08/2023,Overcast,Cloudy skies throughout the day.,cloudy
+05/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/08/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+08/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+09/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+11/08/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+12/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+13/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+14/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/08/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+16/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+17/08/2023,Overcast,Cloudy skies throughout the day.,cloudy
+18/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+19/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/08/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+25/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+26/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+27/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/08/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+31/08/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/09/2023,Clear,Clear conditions throughout the day.,clear-day
+02/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+09/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+10/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+11/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+12/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+13/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+14/09/2023,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+15/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/09/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+18/09/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+19/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/09/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/09/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+24/09/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+25/09/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+26/09/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+27/09/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+28/09/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+29/09/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+30/09/2023,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+01/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/10/2023,Clear,Clear conditions throughout the day.,clear-day
+04/10/2023,Clear,Clear conditions throughout the day.,clear-day
+05/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/10/2023,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+07/10/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+08/10/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+09/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/10/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+11/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/10/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+13/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/10/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+15/10/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+16/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/10/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+20/10/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+21/10/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+22/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/10/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+29/10/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+30/10/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+31/10/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/11/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+02/11/2023,Clear,Clear conditions throughout the day.,clear-day
+03/11/2023,Clear,Clear conditions throughout the day.,clear-day
+04/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/11/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+08/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/11/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+12/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/11/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+14/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/11/2023,Clear,Clear conditions throughout the day.,clear-day
+20/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/11/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+22/11/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+23/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/11/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+27/11/2023,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,rain
+28/11/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+29/11/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+30/11/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/12/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+02/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/12/2023,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+04/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/12/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+11/12/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+12/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/12/2023,Clear,Clear conditions throughout the day.,clear-day
+14/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/12/2023,Clear,Clear conditions throughout the day.,clear-day
+16/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/12/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+18/12/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+19/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/12/2023,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+21/12/2023,Clear,Clear conditions throughout the day.,clear-day
+22/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/12/2023,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+25/12/2023,Overcast,Cloudy skies throughout the day.,cloudy
+26/12/2023,Overcast,Cloudy skies throughout the day.,cloudy
+27/12/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+28/12/2023,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+29/12/2023,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+30/12/2023,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/12/2023,Overcast,Cloudy skies throughout the day.,cloudy
+01/01/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+02/01/2024,Clear,Clear conditions throughout the day.,clear-day
+03/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/01/2024,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow.,snow
+07/01/2024,"Snow, Rain, Overcast",Cloudy skies throughout the day with a chance of rain or snow throughout the day.,snow
+08/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/01/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+10/01/2024,"Rain, Overcast",Cloudy skies throughout the day with early morning rain.,rain
+11/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/01/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+13/01/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+14/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/01/2024,"Snow, Partially cloudy",Partly cloudy throughout the day with late afternoon snow.,snow
+16/01/2024,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,snow
+17/01/2024,Clear,Clear conditions throughout the day.,clear-day
+18/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/01/2024,"Snow, Rain, Overcast",Cloudy skies throughout the day with rain or snow in the morning and afternoon.,snow
+20/01/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+21/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/01/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/01/2024,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+24/01/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+25/01/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+26/01/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+27/01/2024,Overcast,Cloudy skies throughout the day.,cloudy
+28/01/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+29/01/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+30/01/2024,Overcast,Cloudy skies throughout the day.,cloudy
+31/01/2024,Overcast,Cloudy skies throughout the day.,cloudy
+01/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/02/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+03/02/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+04/02/2024,Clear,Clear conditions throughout the day.,clear-day
+05/02/2024,Clear,Clear conditions throughout the day.,clear-day
+06/02/2024,Clear,Clear conditions throughout the day.,clear-day
+07/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/02/2024,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain or snow throughout the day.,snow
+14/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/02/2024,"Snow, Rain, Partially cloudy",Partly cloudy throughout the day with rain or snow clearing later.,snow
+18/02/2024,Clear,Clear conditions throughout the day.,clear-day
+19/02/2024,Clear,Clear conditions throughout the day.,clear-day
+20/02/2024,Clear,Clear conditions throughout the day.,clear-day
+21/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/02/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+23/02/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+24/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/02/2024,Clear,Clear conditions throughout the day.,clear-day
+26/02/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+27/02/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+28/02/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+29/02/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/03/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+03/03/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+04/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/03/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+06/03/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+07/03/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+08/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/03/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+10/03/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+11/03/2024,Partially cloudy,Clearing in the afternoon.,wind
+12/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/03/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+21/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/03/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+23/03/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+24/03/2024,Clear,Clear conditions throughout the day.,clear-day
+25/03/2024,Clear,Clear conditions throughout the day.,clear-day
+26/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/03/2024,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+28/03/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+29/03/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+30/03/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+31/03/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+01/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+02/04/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+03/04/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+04/04/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+05/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/04/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+12/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+13/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+14/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+15/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/04/2024,Clear,Clear conditions throughout the day.,clear-day
+17/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+18/04/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+19/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+21/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/04/2024,Clear,Clear conditions throughout the day.,clear-day
+23/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+24/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+25/04/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/04/2024,Clear,Clear conditions throughout the day.,clear-day
+27/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+28/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+29/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+30/04/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+01/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+02/05/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+03/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/05/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+06/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+07/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+09/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/05/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+11/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+13/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+15/05/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+16/05/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+17/05/2024,"Rain, Overcast",Cloudy skies throughout the day with morning rain.,rain
+18/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+19/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+24/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/05/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+28/05/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+29/05/2024,"Rain, Partially cloudy",Becoming cloudy in the afternoon with late afternoon rain.,rain
+30/05/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+31/05/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/06/2024,Clear,Partly cloudy throughout the day.,clear-day
+02/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+04/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+07/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/06/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+09/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+14/06/2024,"Rain, Partially cloudy",Becoming cloudy in the afternoon with late afternoon rain.,rain
+15/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+16/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+23/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+24/06/2024,Partially cloudy,Partly cloudy throughout the day.,wind
+25/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+27/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+28/06/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+30/06/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,rain
+01/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+06/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+07/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+08/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,rain
+12/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+13/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+14/07/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+15/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+16/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+18/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+19/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+23/07/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+24/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+27/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/07/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+29/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+30/07/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/07/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+01/08/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+02/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+03/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+04/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+05/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+06/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+07/08/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+08/08/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+09/08/2024,"Rain, Overcast",Cloudy skies throughout the day with rain.,rain
+10/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,rain
+11/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/08/2024,"Rain, Partially cloudy",Becoming cloudy in the afternoon with rain.,rain
+13/08/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+14/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with late afternoon rain.,rain
+18/08/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+19/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+20/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/08/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+23/08/2024,Clear,Clear conditions throughout the day.,clear-day
+24/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+26/08/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+27/08/2024,Clear,Clear conditions throughout the day.,clear-day
+28/08/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/08/2024,Overcast,Cloudy skies throughout the day.,cloudy
+30/08/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+31/08/2024,Overcast,Cloudy skies throughout the day.,cloudy
+01/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/09/2024,Clear,Clear conditions throughout the day.,clear-day
+04/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/09/2024,Clear,Clear conditions throughout the day.,clear-day
+06/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+07/09/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,rain
+08/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/09/2024,Partially cloudy,Becoming cloudy in the afternoon.,partly-cloudy-day
+10/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+11/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+12/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/09/2024,Clear,Clear conditions throughout the day.,clear-day
+14/09/2024,Clear,Clear conditions throughout the day.,clear-day
+15/09/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+16/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+19/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+20/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+21/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+22/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+23/09/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,rain
+24/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+25/09/2024,"Rain, Overcast",Cloudy skies throughout the day with late afternoon rain.,rain
+26/09/2024,"Rain, Overcast",Cloudy skies throughout the day with rain in the morning and afternoon.,rain
+27/09/2024,"Rain, Overcast",Cloudy skies throughout the day with rain clearing later.,rain
+28/09/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+29/09/2024,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,rain
+30/09/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+01/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+02/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+03/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+04/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+05/10/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+06/10/2024,Clear,Clear conditions throughout the day.,clear-day
+07/10/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with morning rain.,rain
+08/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+09/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+10/10/2024,Clear,Clear conditions throughout the day.,clear-day
+11/10/2024,Clear,Clear conditions throughout the day.,clear-day
+12/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+13/10/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+14/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+15/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+16/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+17/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+18/10/2024,Clear,Clear conditions throughout the day.,clear-day
+19/10/2024,Clear,Clear conditions throughout the day.,clear-day
+20/10/2024,Clear,Clear conditions throughout the day.,clear-day
+21/10/2024,Clear,Clear conditions throughout the day.,clear-day
+22/10/2024,Clear,Clear conditions throughout the day.,clear-day
+23/10/2024,Clear,Clear conditions throughout the day.,clear-day
+24/10/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+25/10/2024,Clear,Clear conditions throughout the day.,clear-day
+26/10/2024,Partially cloudy,Clearing in the afternoon.,partly-cloudy-day
+27/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+28/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+29/10/2024,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,rain
+30/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
+31/10/2024,Partially cloudy,Partly cloudy throughout the day.,partly-cloudy-day
